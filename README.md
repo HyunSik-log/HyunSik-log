@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+### Tools
+![Git](http://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
+![Visual Studio Code](http://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+
+
 <!--
 **HyunSik-log/HyunSik-log** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
