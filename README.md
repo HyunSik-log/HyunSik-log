@@ -16,6 +16,7 @@
   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white)
   ![Visual Studio Code](http://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
   ![IntelliJ IDEA](https://img.shields.io/badge/Intellij%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
+  
   ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=FigmaA&logoColor=white)
   
   ![Git](http://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
