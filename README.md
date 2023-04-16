@@ -19,8 +19,8 @@
 
   ![Git](http://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunSik-log&layout=compact)](https://github.com/HyunSik-log/github-readme-stats)
-
+<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunSik-log&layout=compact)](https://github.com/HyunSik-log/github-readme-stats)
+ -->
   <!--
   **HyunSik-log/HyunSik-log** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
